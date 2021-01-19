@@ -1,8 +1,8 @@
 ### Hi there ~(=^‥^)ノ
   
-  (☞ﾟヮﾟ)☞   [Linkedin](https://www.linkedin.com/in/gustiprp)    ☜(ﾟヮﾟ☜)
+  (☞ﾟヮﾟ)☞   [My Linkedin](https://www.linkedin.com/in/gustiprp)
 
-  (☞ﾟヮﾟ)☞   [Portofolio](https://gustiprp.github.io)    ☜(ﾟヮﾟ☜)
+  (☞ﾟヮﾟ)☞   [My Portofolio](https://gustiprp.github.io)
 
 <!--
 **gustiprp/gustiprp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
